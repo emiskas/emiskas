@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there!
 
-<!--
-**emiskas/emiskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to My GitHub Profile
 
-Here are some ideas to get you started:
+I'm an aspiring Python Data Engineer with a passion for data processing, database management, and scalable data solutions. I specialize in Python, with strong expertise in PostgreSQL and SQLite for efficient data storage and retrieval.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Fast and Passionate Learner: I enjoy exploring new technologies and continuously improving my skills in data engineering.
+
+Automation Enthusiast: I love building scripts and pipelines to automate data workflows and optimize processes.
+
+Tech Stack
+
+Programming: Python (Pandas, NumPy, SQLAlchemy)
+
+Databases: PostgreSQL, SQLite
+
+ETL & Data Processing: Airflow, Apache Spark (learning)
+
+Version Control: Git & GitHub
+
+Cloud & Deployment: AWS (learning)
+
+Currently Learning
+
+Advanced SQL query optimization
+
+Apache Spark
+
+Cloud-based data solutions
+
+Featured Projects
+
+ETL Pipeline with PostgreSQL & Python
+
+A scalable ETL pipeline that extracts data from multiple sources, transforms it efficiently, and loads it into PostgreSQL for analysis.
+
+SQLite Data Warehouse
+
+A mini data warehouse built using SQLite for lightweight yet powerful analytical processing.
+
+Connect with Me
+
+LinkedIn: Your Profile
+
+Email: your.email@example.com
+
+Let's build data-driven solutions together!
+
