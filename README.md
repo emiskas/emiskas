@@ -1,14 +1,3 @@
-# 🔍 About Me:
-
-I am an **aspiring Python Data Engineer** with a strong passion for data processing, automation, and building scalable data solutions. I thrive on solving complex data challenges, optimizing database performance, and designing efficient ETL pipelines.  
-
-- **Fast Learner**: I love diving into new technologies and continuously improving my skill set.  
-- **Automation Enthusiast**: I enjoy streamlining workflows and eliminating manual tasks through well-designed automation.  
-- **Data-Driven Mindset**: I believe in leveraging data to drive better decision-making and innovation.  
-- **Security & Cybersecurity Interest**: Alongside data engineering, I'm also exploring security and cybersecurity concepts to better understand data protection and system vulnerabilities.  
-
-Currently, I’m expanding my expertise in **Azure** (learning towards the AZ-900, DP-900 and AI-900 certifications) and **big data processing**, aiming to build robust, scalable data infrastructures while keeping security in mind.  
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emilispaul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emilis-paulauskas-2101732a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emilispaul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilispaulauskas279@gmail.com) 
 
