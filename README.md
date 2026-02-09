@@ -9,6 +9,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - SQLite
 - Docker
 - PHP (studying)
+- Prestashop (studying)
 - JavaScript (studying)
 - Vue.js (studying)
 - Electron (studying)
