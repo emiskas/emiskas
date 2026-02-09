@@ -8,6 +8,8 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - PostgreSQL/MySQL
 - SQLite
 - Docker
+- Linux
+- Windows
 - PHP (studying)
 - Prestashop (studying)
 - JavaScript (studying)
