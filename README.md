@@ -4,7 +4,8 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 
 ## Tech stack:
 - Python
-- HTML/CSS
+- HTML
+- Tailwind CSS
 - PostgreSQL/MySQL
 - SQLite
 - Docker
