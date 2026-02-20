@@ -18,4 +18,4 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - Electron (studying)
 - Node.js (studying)
 
-_If you have any project inquiries, feel free to e-mail me at emilis@emiskas.com_
+_If you have any project or collaboration inquiries, feel free to e-mail me at emilis@emiskas.com_
