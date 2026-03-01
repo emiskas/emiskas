@@ -11,8 +11,8 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - Docker
 - Linux
 - Windows
-- PHP (studying)
-- Prestashop (studying)
+- Prestashop
+- PHP
 - JavaScript (studying)
 - Vue.js (studying)
 - Electron (studying)
