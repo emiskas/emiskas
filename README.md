@@ -2,6 +2,12 @@
 
 I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus on web development as well as business workflow automations.
 
+## Some of my live projects:
+
+#### [My personal website](https://www.emiskas.com/)
+#### [KlikTime](https://kliktime.lt/)
+#### [Universal Steel](https://universalsteel.lt/)
+
 ## Tech stack:
 - Python
 - HTML
