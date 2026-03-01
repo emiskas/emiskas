@@ -14,7 +14,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - Docker
 - Ubuntu/Windows
 
-## List of skills:
+## Hard skills:
 - Python
 - HTML
 - Tailwind CSS
@@ -25,6 +25,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - Windows
 - Prestashop
 - PHP
+- Networking (studying)
 - JavaScript (studying)
 - Vue.js (studying)
 - Electron (studying)
