@@ -7,7 +7,14 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 ### [KlikTime](https://kliktime.lt/)
 ### [Universal Steel](https://universalsteel.lt/)
 
-## Tech stack:
+## My main tech stack:
+- Django
+- HTML + Tailwind CSS
+- PostgreSQL
+- Docker
+- Ubuntu/Windows
+
+## List of skills:
 - Python
 - HTML
 - Tailwind CSS
