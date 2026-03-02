@@ -12,6 +12,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - HTML + Tailwind CSS
 - PostgreSQL
 - Docker
+- Hostinger VPS
 - Twilio
 - Ubuntu/Windows
 
