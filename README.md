@@ -9,7 +9,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 
 ## My main tech stack:
 - Django
-- HTML + Tailwind CSS
+- HTML + SCSS
 - PostgreSQL
 - Docker
 - Hostinger VPS
