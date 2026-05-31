@@ -4,6 +4,7 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 
 ## Some of my live projects:
 ### [My personal website](https://www.emiskas.com/)
+### [Durų Planeta](https://duruplaneta.lt/)
 ### [KlikTime](https://kliktime.lt/)
 ### [Universal Steel](https://universalsteel.lt/)
 
