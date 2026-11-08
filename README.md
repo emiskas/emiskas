@@ -18,21 +18,4 @@ I am a freelance Full-stack (Python/Django) developer from Lithuania and I focus
 - Twilio
 - Ubuntu/Windows
 
-## Hard skills:
-- Python
-- HTML
-- Tailwind CSS
-- PostgreSQL/MySQL
-- SQLite
-- Docker
-- Linux
-- Windows
-- Prestashop
-- PHP
-- Networking (studying)
-- JavaScript (studying)
-- Vue.js (studying)
-- Electron (studying)
-- Node.js (studying)
-
 _If you have any project or collaboration inquiries, feel free to e-mail me at emilis@emiskas.com_
